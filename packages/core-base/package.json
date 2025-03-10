@@ -35,7 +35,7 @@
   "dependencies": {
     "@intlify/devtools-if": "9.1.9",
     "@intlify/message-compiler": "9.1.9",
-    "@intlify/message-resolver": "9.1.9",
+    "@intlify/message-resolver": "9.1.11",
     "@intlify/runtime": "9.1.9",
     "@intlify/shared": "9.1.9",
     "@intlify/vue-devtools": "9.1.9"
