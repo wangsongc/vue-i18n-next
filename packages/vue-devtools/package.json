@@ -30,7 +30,7 @@
   "module": "dist/vue-devtools.esm-bundler.js",
   "types": "dist/vue-devtools.d.ts",
   "dependencies": {
-    "@intlify/message-resolver": "9.1.9",
+    "@intlify/message-resolver": "9.1.11",
     "@intlify/runtime": "9.1.9",
     "@intlify/shared": "9.1.9"
   },
