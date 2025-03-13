@@ -31,7 +31,7 @@
   "types": "dist/runtime.d.ts",
   "dependencies": {
     "@intlify/message-compiler": "9.1.9",
-    "@intlify/message-resolver": "9.1.9",
+    "@intlify/message-resolver": "9.1.11",
     "@intlify/shared": "9.1.9"
   },
   "engines": {
